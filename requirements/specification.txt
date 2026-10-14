@@ -1,0 +1,11 @@
+HEALTHCARE MANAGEMENT SYSTEM
+
+Version 1.0 – Initial Specification
+
+1. Patients can register and log in to the system.
+2. Patients can view available doctors.
+3. Patients can search for doctors by name or specialization.
+4. Patients can book and cancel appointments.
+5. Doctors can view their appointment schedules.
+6. Doctors can maintain basic patient medical records.
+7. Administrators can manage doctor and patient information.
