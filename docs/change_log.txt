@@ -1,0 +1,16 @@
+HEALTHCARE MANAGEMENT SYSTEM – CHANGE LOG
+
+C01 – Version 1.0
+Change: Initial patient registration, doctor search, appointment booking, and medical record requirements.
+Reason: Initial system specification.
+Status: Completed.
+
+C02 – Version 1.1
+Change: Added advanced doctor search, appointment rescheduling, notifications, and appointment history.
+Reason: Improve usability and appointment management.
+Status: Completed.
+
+C03 – Version 2.0
+Change: Added online payment, digital prescriptions, electronic medical records, administrator dashboard, and role-based access.
+Reason: Enhance functionality, security, and administration.
+Status: Completed.
