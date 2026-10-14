@@ -1,15 +1,17 @@
 HEALTHCARE MANAGEMENT SYSTEM
 
-Version 1.1 – Updated Specification
+Version 2.0 – Enhanced Specification
 
-1. Patients can register and log in to the system.
-2. Patients can search for doctors by name, specialization, and department.
-3. Patients can book and cancel appointments.
-4. Patients can reschedule appointments.
-5. The system displays doctor availability and time slots.
-6. Patients receive appointment confirmation notifications.
-7. Patients can view their appointment history.
-8. Patients can update their profile information.
-9. Doctors can view their appointment schedules.
-10. Doctors can maintain patient medical records.
-11. Administrators can manage doctor and patient information.
+1. Patients can register and log in securely.
+2. Patients can search doctors by name, specialization, and department.
+3. Patients can book, cancel, and reschedule appointments.
+4. The system displays real-time doctor availability.
+5. Patients receive appointment confirmations and reminders through email or SMS.
+6. Patients can view appointment history.
+7. Patients can pay appointment fees online.
+8. Doctors can manage appointment schedules.
+9. Doctors can maintain electronic medical records.
+10. Doctors can create and update digital prescriptions.
+11. Administrators can view a dashboard and generate reports.
+12. Role-based access is provided for patients, doctors, and administrators.
+13. The system maintains secure access to patient information.
